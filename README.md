@@ -30,50 +30,50 @@ Most of the fields are self-explanatory. The following are descriptions for thos
 
 ### Pipeline
 
-* # PHASE 1
+*  PHASE 1
 
-    * ## 1.1. Loading Data
-    * ## 1.2. Descriptive Statistical
+    *  1.1. Loading Data
+    *  1.2. Descriptive Statistical
 
-* # PHASE 2
+*  PHASE 2
 
-    * ## 2.1. Adding new Features
-    * ## 2.2. Time-Based Train, validation and test split
-    * ## 2.3. Standardization
+    *  2.1. Adding new Features
+    *  2.2. Time-Based Train, validation and test split
+    *  2.3. Standardization
 
-* # PHASE 3
+*  PHASE 3
 
-    * ## 3.1. BasleLine - Moving Average
-    * ## 3.2. XGBoost Regressor
+    *  3.1. BasleLine - Moving Average
+    *  3.2. XGBoost Regressor
 
-        * ### 3.2.1. Encoding Data
-        * ### 3.2.2. Custom XGBoostRegressor
-        * ### 3.2.3. Parameter Tuning
-        * ### 3.2.4. XGBoost Using package (For comparison with the costum XGBoost)
-        * ### 3.2.5. XGBoost Using package (fitted on entire dataset)
-        * ### 3.2.6. Error Analysis
-        * ### 3.2.7. Feature Importance Analysis(SHAP)
+        *  3.2.1. Encoding Data
+        *  3.2.2. Custom XGBoostRegressor
+        *  3.2.3. Parameter Tuning
+        *  3.2.4. XGBoost Using package (For comparison with the costum XGBoost)
+        *  3.2.5. XGBoost Using package (fitted on entire dataset)
+        *  3.2.6. Error Analysis
+        *  3.2.7. Feature Importance Analysis(SHAP)
 
-* # PHASE 4
+*  PHASE 4
 
-    * ## 4.1. Multi-Step Forcasting(7 days)
+    *  4.1. Multi-Step Forcasting(7 days)
 
-        * ### 4.1.1. Recursive Multi-Step Forcasting
-        * ### 4.1.2. Direct Multi-Step Forcasting
+        *  4.1.1. Recursive Multi-Step Forcasting
+        *  4.1.2. Direct Multi-Step Forcasting
 
-    * ## 4.2. Quantile Regression
-    * ## 4.3. Classification
+    *  4.2. Quantile Regression
+    *  4.3. Classification
 
-        * ### 4.3.1. Adding label feature and droping closed days
-        * ### 4.3.2. Time-Based Split
-        * ### 4.3.3. Scaling & standardization
-        * ### 4.3.4. Encoding Data
-        * ### 4.3.5. Preparing Data
-        * ### 4.3.6. Custom XGBoost Classification model
-        * ### 4.3.7. Classification Using package(XGBclassifier)
+        *  4.3.1. Adding label feature and droping closed days
+        *  4.3.2. Time-Based Split
+        *  4.3.3. Scaling & standardization
+        *  4.3.4. Encoding Data
+        *  4.3.5. Preparing Data
+        *  4.3.6. Custom XGBoost Classification model
+        *  4.3.7. Classification Using package(XGBclassifier)
 
-* # PHASE 5
+*  PHASE 5
 
-    * ## LSTM
-    * ## TCN
+    *  LSTM
+    *  TCN
 
